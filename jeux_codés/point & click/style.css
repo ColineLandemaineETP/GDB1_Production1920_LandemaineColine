@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+#main{
+	height: 1280px;
+	width: 720px;
+	background-image: url('asset/salle.png');
+}
+
+
+#cliquer{
+	display: inline;
+	position: absolute;
+	left: 200px;
+}
+
+
+#peintureV2{
+	width: 7%;
+	position: absolute;
+	top: 580px;
+	left: 250px;
+}
+
+#timer{
+	display: inline;
+	font-family: atma light;
+	font-size: 100px;
+	font-weight: bold;
+	position: absolute;
+	margin-top: 0px;
+	left: 85px;
+	top:-20px;
+
+}
+

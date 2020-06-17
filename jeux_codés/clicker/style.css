@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+#main{
+	height: 1280px;
+	width: 720px;
+	background-image: url('asset/clickerBackground.png');
+}
+
+
+#cliquer{
+	margin-left: 80px;
+	margin-top: 25px;   
+}
+
+#nombre{
+	font-family: atma light;
+	font-size: 150px;
+	font-weight: bold;
+	margin-left: 300px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+
+}
+
+#peintureV{
+	display: block;
+	margin-right: auto;
+	margin-left: 27%;
+	margin-top: 150px;  	
+	height: auto;
+	width: 40%
+}
+
+#timer{
+	font-family: atma light;
+	font-size: 100px;
+	font-weight: bold;
+	margin-left: 95px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
